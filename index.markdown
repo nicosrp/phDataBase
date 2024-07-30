@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1>Plasticheal Analytics</h1>
+<h1>Plasticheal Analysis</h1>
 
 <iframe src="statistics.html" width="100%" height="325" style="border:none; margin-bottom: 20px;"></iframe>
 
