@@ -22,8 +22,8 @@ In the following graph the involvement of organizations grouped by the respectiv
 <iframe src="OUTPUT/bar_chart_company_involvement.html" width="100%" height="400" style="border:none; margin-bottom: 20px;"></iframe>
 
 The world map visualizes the previous involvement values.
-<iframe src="OUTPUT/world_map_company_involvement.html" width="130%" height="500" style="border:none; margin-bottom: 30px;"></iframe>
+<iframe src="OUTPUT/world_map_company_involvement.html" width="100%" height="600" style="border:none; margin-bottom: 30px;"></iframe>
 
 <h2>3 Categories</h2>
 In this network graph the occurence of single categories, as well as ther interconnectivity is visualized.
-<iframe src="OUTPUT/network_graph_of_plastic_projects_categories.html" width="130%" height="325" style="border:none; margin-bottom: 20px;"></iframe>
+<iframe src="OUTPUT/network_graph_of_plastic_projects_categories.html" width="100%" height="500" style="border:none; margin-bottom: 20px;"></iframe>
