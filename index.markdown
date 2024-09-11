@@ -20,7 +20,8 @@ The following two scatter-plots show how many days after the project start/end d
 <iframe src="OUTPUT/01_Publications/scatter_plot_start_date.html" width="100%" height="400" style="border:none; margin-bottom: 20px;"></iframe>
 <iframe src="OUTPUT/01_Publications/scatter_plot_end_date.html" width="100%" height="400" style="border:none; margin-bottom: 30px;"></iframe>
 
-
+In this scatterplot the relation between publication output and assigned knowledgegaps is visualized.
+<iframe src="OUTPUT/01_Publications/publications_vs_knowledge_gaps_plot_with_curve.html" width="100%" height="400" style="border:none; margin-bottom: 30px;"></iframe>
 
 <h2>2 Partners, Coordinating Organizations and Respective Countries</h2>
 The country-count for coordinating a plastic research project is visualized below.
@@ -45,3 +46,5 @@ In the following interactive Graph the knowledge gaps for all included projects 
 
 This next plot shows the share for each grouped knowedge gap over the years.
 <iframe src="OUTPUT/04_KnowledgeGaps/knowledge_gaps_share.html" width="100%" height="500" style="border:none; margin-bottom: 20px;"></iframe>
+
+<iframe src="OUTPUT/04_KnowledgeGaps/knowledge_gaps_with_total_points_secondary_yaxis.html" width="100%" height="500" style="border:none; margin-bottom: 20px;"></iframe>
