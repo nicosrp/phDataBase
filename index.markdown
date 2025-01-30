@@ -32,7 +32,7 @@ The stacked bar char below shows the total occurence of organizations as coordin
 
 The world maps visualizes the previous involvement values.
 
-<iframe src="OUTPUT/02_Organizations_And_Countries/world_map_company_involvement_globe.html" width="100%" height="600" style="border:none; margin-bottom: 20px;"></iframe>
+<iframe src="OUTPUT/02_Organizations_And_Countries/world_map_company_involvement_globe.html" width="110%" height="650" style="border:none; margin-bottom: 20px;"></iframe>
 
 <iframe src="OUTPUT/02_Organizations_And_Countries/world_map_company_involvement.html" width="100%" height="600" style="border:none; margin-bottom: 30px;"></iframe>
 
