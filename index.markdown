@@ -35,7 +35,7 @@ The world maps visualizes the previous involvement values.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <iframe src="OUTPUT/02_Organizations_And_Countries/world_map_company_involvement_globe.html" 
-            width="500" height="400" 
+            width="100%" height="600"
             style="border:none; margin-bottom: 20px;">
     </iframe>
 </div>
