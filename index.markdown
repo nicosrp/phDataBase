@@ -16,7 +16,7 @@ layout: home
 This plot shows the publication distribution based on the publishing date.
 <iframe src="OUTPUT/01_Publications/Publications_per_Year.html" width="100%" height="400" style="border:none; margin-bottom: 20px;"></iframe>
 
-<iframe src="OUTPUT/01_Publications/Publications_per_Year_Bar.html" width="100%" height="400" style="border:none; margin-bottom: 30px;"></iframe>
+<iframe src="OUTPUT/01_Publications/Publications_per_Year_Bar.html" width="100%" height="500" style="border:none; margin-bottom: 30px;"></iframe>
 
 The following two scatter-plots show how many days after the project start/end date a publication has been published plotted against the total publication amount of the project.
 <iframe src="OUTPUT/01_Publications/scatter_plot_start_date.html" width="100%" height="400" style="border:none; margin-bottom: 20px;"></iframe>
